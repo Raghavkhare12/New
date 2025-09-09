@@ -1,1 +1,1 @@
-print("New Repository")
+print("This is a New Repository")
